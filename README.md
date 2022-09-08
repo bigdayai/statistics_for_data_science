@@ -1,2 +1,5 @@
-# statistics_for_data_science
- Review of foundational concepts in Statistics for Data Science
+# Statistics for Data Science
+
+This repo provides a review of foundational concepts in Statistics for Data Science.
+
+
